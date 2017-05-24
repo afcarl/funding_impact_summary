@@ -1,0 +1,286 @@
+Randomized ID,Have you attended an unconference before?,Have you attended a Python in Astronomy workshop before?,"In terms of gender identity, do you self-identify as an underrepresented minority in astronomy/astrophysics?","In terms of racial or ethnic identity, do you self-identify as an underrepresented minority in astronomy/astrophysics?",Will you be likely to need financial support from us to attend the meeting?,Received funding?,Registered?,Geographic area,Position
+1,Yes,No,No,No,Full Support,0,0,Asia,Undergraduate/College student
+2,Yes,No,No,No,No Support,0,1,Western Europe,Graduate/Postgraduate student
+3,No,No,Yes,Yes,Partial Support,0,0,North America,Graduate/Postgraduate student
+4,No,No,No,No,Full Support,0,1,Asia,Undergraduate/College student
+5,No,No,No,No,No Support,0,0,Western Europe,Undergraduate/College student
+6,Yes,Yes,Yes,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+7,No,Yes,,,Full Support,0,0,South America,Postdoc
+8,Yes,No,No,No,Partial Support,0,0,Western Europe,(Research) Staff
+9,Yes,Yes,No,No,No Support,0,1,North America,(Research) Staff
+10,No,No,No,No,Full Support,0,0,North America,Graduate/Postgraduate student
+11,No,No,Yes,No,Full Support,1,1,Western Europe,Graduate/Postgraduate student
+12,No,No,No,Yes,Partial Support,0,0,Eastern Europe,Graduate/Postgraduate student
+13,No,Yes,No,No,Full Support,0,0,Asia,Graduate/Postgraduate student
+14,No,No,,,No Support,0,0,Western Europe,Graduate/Postgraduate student
+15,Yes,Yes,No,No,Full Support,0,0,Asia,Undergraduate/College student
+16,Yes,No,No,No,Partial Support,0,0,North America,(Research) Staff
+17,Yes,No,,,Full Support,0,0,Asia,Teaching Faculty
+18,No,No,,,Full Support,0,0,Eastern Europe,Undergraduate/College student
+19,No,No,No,No,No Support,0,1,Asia,Postdoc
+20,No,No,No,No,Partial Support,0,0,Western Europe,Postdoc
+21,Yes,Yes,No,No,No Support,0,0,Africa,(Research) Staff
+22,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+23,No,No,Yes,Yes,Full Support,0,0,Middle East,Graduate/Postgraduate student
+24,No,No,No,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+25,No,No,Yes,No,Full Support,0,0,North America,(Research) Staff
+26,No,No,No,No,Full Support,0,0,North America,Graduate/Postgraduate student
+27,No,No,,No,Partial Support,0,0,North America,Graduate/Postgraduate student
+28,Yes,No,No,No,Full Support,1,1,Western Europe,Guest researcher
+29,No,No,No,No,No Support,0,0,South America,Teaching Faculty
+30,No,No,No,No,No Support,0,0,Western Europe,(Research) Staff
+31,No,No,Yes,Yes,Partial Support,0,0,North America,(Research) Staff
+32,Yes,Yes,No,No,Full Support,0,1,Western Europe,Research Software Developer
+33,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+34,No,No,Yes,No,Full Support,0,0,North America,(Research) Staff
+35,Yes,Yes,Yes,No,No Support,0,1,Western Europe,Graduate/Postgraduate student
+36,No,No,No,Yes,Full Support,0,0,Asia,Undergraduate/College student
+37,Yes,No,No,,Full Support,0,0,Africa,Graduate/Postgraduate student
+38,No,No,No,Yes,Partial Support,0,0,North America,Graduate/Postgraduate student
+39,Yes,No,,,Full Support,0,0,Asia,(Research) Staff
+40,No,No,Yes,Yes,Full Support,0,0,Asia,Fresh graduate
+41,No,No,,,No Support,0,0,Western Europe,Postdoc
+42,No,No,Yes,No,No Support,0,1,Western Europe,Graduate/Postgraduate student
+43,No,No,No,No,Partial Support,0,1,Asia,Graduate/Postgraduate student
+44,No,No,Yes,Yes,No Support,0,0,Asia,Graduate/Postgraduate student
+45,No,No,,,No Support,0,1,North America,Software Engineer
+46,Yes,No,No,,Full Support,0,0,Africa,Graduate/Postgraduate student
+47,No,No,No,No,Full Support,0,0,North America,Graduate/Postgraduate student
+48,Yes,No,No,No,Full Support,0,0,North America,Undergraduate/College student
+49,No,No,No,No,Partial Support,0,0,Western Europe,Research engineer
+50,Yes,Yes,Yes,No,No Support,0,1,North America,Postdoc
+51,No,No,No,No,Partial Support,0,0,North America,(Research) Staff
+52,Yes,No,,,Partial Support,0,0,Asia,Undergraduate/College student
+53,Yes,Yes,No,,No Support,0,0,Western Europe,Graduate/Postgraduate student
+54,No,No,No,No,Full Support,0,0,Western Europe,Postdoc
+55,No,No,No,No,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+56,Yes,Yes,Yes,Yes,Full Support,0,0,Eastern Europe,Graduate/Postgraduate student
+57,Yes,No,Yes,Yes,Full Support,1,1,South America,Graduate/Postgraduate student
+58,Yes,No,No,No,Full Support,0,0,Asia,Undergraduate/College student
+59,No,No,No,Yes,Full Support,0,0,Middle East,Graduate/Postgraduate student
+60,No,No,,,No Support,0,0,Asia,Postdoc
+61,No,No,No,Yes,Full Support,0,0,Asia,Graduate/Postgraduate student
+62,No,No,Yes,Yes,Full Support,0,0,North America,Graduate/Postgraduate student
+63,No,No,,,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+64,Yes,No,No,Yes,Full Support,0,0,Africa,Graduate/Postgraduate student
+65,Yes,Yes,Yes,No,No Support,0,0,North America,Non-Academic
+66,No,No,No,Yes,Partial Support,0,0,North America,Postdoc
+67,Yes,Yes,No,No,Full Support,0,0,North America,Graduate/Postgraduate student
+68,Yes,No,,,Full Support,0,0,Eastern Europe,Undergraduate/College student
+69,No,No,Yes,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+70,Yes,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+71,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+72,No,Yes,No,No,Full Support,0,0,Asia,Graduate/Postgraduate student
+73,No,No,,,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+74,No,No,No,No,Full Support,0,0,Asia,Undergraduate/College student
+75,No,No,Yes,No,Full Support,1,1,Western Europe,Graduate/Postgraduate student
+76,No,No,No,No,Partial Support,0,0,Western Europe,Postdoc
+77,No,No,Yes,No,Full Support,0,0,North America,Graduate/Postgraduate student
+78,Yes,Yes,No,No,Full Support,0,0,Asia,Undergraduate/College student
+79,No,No,,,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+80,Yes,No,No,No,Full Support,0,0,North America,Postdoc
+81,No,No,Yes,Yes,Full Support,1,1,Africa,Postdoc
+82,No,No,Yes,Yes,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+83,No,No,Yes,Yes,Full Support,0,0,Asia,Undergraduate/College student
+84,Yes,No,Yes,No,Full Support,1,1,Western Europe,Postdoc
+85,No,No,,No,Full Support,0,0,Africa,Graduate/Postgraduate student
+86,Yes,No,No,No,Full Support,1,1,Eastern Europe,Graduate/Postgraduate student
+87,No,No,No,No,Full Support,0,0,Eastern Europe,Graduate/Postgraduate student
+88,No,No,No,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+89,No,No,No,,Full Support,0,1,South America,Undergraduate/College student
+90,No,No,Yes,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+91,No,No,,,Full Support,0,0,North America,Graduate/Postgraduate student
+92,No,No,,,Partial Support,0,0,Asia,Undergraduate/College student
+93,No,No,,,Full Support,0,0,Asia,Graduate/Postgraduate student
+94,No,No,No,No,No Support,0,0,South America,Undergraduate/College student
+95,No,No,No,Yes,No Support,0,1,North America,Undergraduate/College student
+96,No,No,Yes,No,Partial Support,0,0,Asia,Postdoc
+97,No,Yes,No,No,Partial Support,1,1,Asia,PhD Student
+98,No,No,Yes,Yes,No Support,0,0,Western Europe,Graduate/Postgraduate student
+99,No,No,,Yes,No Support,0,0,Western Europe,Graduate/Postgraduate student
+100,No,No,No,Yes,Full Support,0,0,Eastern Europe,Postdoc
+101,No,No,,,No Support,0,0,Western Europe,Graduate/Postgraduate student
+102,Yes,Yes,No,No,Partial Support,0,1,Western Europe,Non-Academic
+103,No,Yes,Yes,No,Full Support,1,1,North America,Graduate/Postgraduate student
+104,No,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+105,No,No,Yes,No,Full Support,1,1,North America,Graduate/Postgraduate student
+106,No,No,No,Yes,Full Support,0,0,Asia,Undergraduate/College student
+107,No,No,No,No,No Support,0,1,Western Europe,Graduate/Postgraduate student
+108,No,No,No,No,Full Support,0,0,Asia,Undergraduate/College student
+109,No,Yes,No,Yes,Full Support,0,0,Africa,Graduate/Postgraduate student
+110,No,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+111,Yes,No,Yes,No,Full Support,0,0,North America,Graduate/Postgraduate student
+112,No,No,No,Yes,No Support,0,1,Western Europe,Postdoc
+113,Yes,Yes,No,No,Partial Support,0,1,North America,Teaching Faculty
+114,No,No,No,No,No Support,0,0,North America,(Research) Staff
+115,No,No,No,No,Full Support,0,0,Asia,Undergraduate/College student
+116,No,No,Yes,No,Partial Support,1,1,Western Europe,Graduate/Postgraduate student
+117,No,No,Yes,No,Partial Support,0,0,North America,Undergraduate/College student
+118,No,No,Yes,Yes,Full Support,0,0,Asia,Graduate/Postgraduate student
+119,Yes,Yes,No,No,No Support,0,1,Western Europe,Graduate/Postgraduate student
+120,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+121,No,No,No,No,No Support,0,0,North America,Contractor
+122,No,No,No,Yes,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+123,Yes,No,,,Full Support,0,0,Western Europe,gentleman scientist
+124,No,No,No,No,No Support,0,0,North America,Postdoc
+125,No,No,,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+126,No,No,No,Yes,Partial Support,0,0,Eastern Europe,Postdoc
+127,Yes,Yes,No,No,No Support,0,0,North America,(Research) Staff
+128,No,No,No,Yes,Partial Support,0,0,Western Europe,Postdoc
+129,No,No,Yes,Yes,Partial Support,0,0,Western Europe,Postdoc
+130,No,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+131,No,No,Yes,No,Full Support,0,1,North America,Graduate/Postgraduate student
+132,No,No,No,No,Partial Support,0,0,North America,(Research) Staff
+133,No,No,No,No,Partial Support,0,1,Western Europe,Graduate/Postgraduate student
+134,No,No,No,No,Full Support,0,0,Africa,Teaching Faculty
+135,No,No,No,No,Partial Support,0,0,North America,Teaching Faculty
+136,Yes,Yes,No,No,No Support,0,1,North America,Postdoc
+137,No,No,No,No,Full Support,0,0,North America,Graduate/Postgraduate student
+138,No,No,No,Yes,Full Support,0,0,Asia,Graduate/Postgraduate student
+139,No,No,No,No,Full Support,0,0,Eastern Europe,Postdoc
+140,No,No,No,No,Partial Support,0,0,North America,Graduate/Postgraduate student
+141,Yes,Yes,No,No,No Support,0,0,North America,Postdoc
+142,No,No,,,Partial Support,0,0,South America,Postdoc
+143,No,No,No,No,Full Support,0,0,Asia,Undergraduate/College student
+144,No,No,No,Yes,Full Support,0,0,Asia,(Research) Staff
+145,No,Yes,No,No,No Support,0,0,Western Europe,Postdoc
+146,No,No,,,Partial Support,0,0,Eastern Europe,Postdoc
+147,No,No,Yes,,Full Support,0,0,North America,Graduate/Postgraduate student
+148,Yes,No,Yes,No,Partial Support,0,0,Eastern Europe,Graduate/Postgraduate student
+149,No,No,No,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+150,No,No,No,No,Full Support,0,0,North America,Undergraduate/College student
+151,No,No,No,No,Full Support,0,1,Western Europe,Graduate/Postgraduate student
+152,No,No,No,No,Partial Support,0,0,Asia,Postdoc
+153,No,Yes,Yes,,Full Support,0,0,Africa,(Research) Staff
+154,No,No,No,No,Full Support,0,0,Africa,Graduate/Postgraduate student
+155,No,No,Yes,Yes,Full Support,0,0,North America,Graduate/Postgraduate student
+156,No,No,No,No,No Support,0,0,North America,Postdoc
+157,No,No,No,No,Full Support,0,0,North America,Graduate/Postgraduate student
+158,Yes,Yes,Yes,No,Full Support,1,1,Western Europe,Graduate/Postgraduate student
+159,No,No,,,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+160,No,No,Yes,Yes,No Support,0,0,Oceania,(Research) Staff
+161,No,Yes,,,Partial Support,0,0,North America,Postdoc
+162,No,No,Yes,No,Full Support,0,0,North America,Undergraduate/College student
+163,No,No,Yes,No,Full Support,0,0,South America,Graduate/Postgraduate student
+164,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+165,No,No,No,No,Partial Support,0,0,Western Europe,Postdoc
+166,No,No,Yes,,Full Support,0,0,Asia,Undergraduate/College student
+167,Yes,No,No,No,No Support,0,1,North America,(Research) Staff
+168,No,No,No,No,No Support,0,1,Eastern Europe,Graduate/Postgraduate student
+169,No,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+170,No,No,,,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+171,Yes,No,Yes,Yes,Full Support,0,0,North America,Graduate/Postgraduate student
+172,Yes,Yes,No,No,No Support,0,1,North America,Non-Academic
+173,No,Yes,,,No Support,0,0,Asia,Graduate/Postgraduate student
+174,Yes,Yes,No,No,No Support,0,0,North America,(Research) Staff
+175,No,No,No,No,No Support,0,0,Oceania,Non-Academic
+176,Yes,Yes,Yes,Yes,No Support,0,1,North America,Postdoc
+177,No,No,No,No,No Support,0,0,North America,(Research) Staff
+178,No,No,,,Full Support,0,0,Asia,Graduate/Postgraduate student
+179,No,No,,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+180,No,No,Yes,No,Partial Support,0,0,North America,Graduate/Postgraduate student
+181,No,No,No,No,Full Support,0,0,Asia,Undergraduate/College student
+182,No,No,No,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+183,No,No,No,No,No Support,0,1,North America,Postdoc
+184,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+185,Yes,Yes,Yes,Yes,No Support,0,1,North America,Teaching Faculty
+186,No,No,No,No,No Support,0,0,Western Europe,(Research) Staff
+187,No,No,No,No,Partial Support,0,0,Eastern Europe,Postdoc
+188,No,No,No,No,No Support,0,0,North America,Graduate/Postgraduate student
+189,No,No,,,No Support,0,0,Middle East,Graduate/Postgraduate student
+190,No,No,,,Full Support,0,0,North America,Graduate/Postgraduate student
+191,No,No,,,Full Support,0,0,Asia,Graduate/Postgraduate student
+192,No,Yes,No,Yes,No Support,0,1,Western Europe,Graduate/Postgraduate student
+193,No,No,,No,No Support,0,0,North America,Data Process Developer
+194,No,No,No,No,Full Support,0,0,Eastern Europe,Graduate/Postgraduate student
+195,No,No,,No,Partial Support,0,0,Western Europe,Undergraduate/College student
+196,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+197,Yes,Yes,No,No,Partial Support,0,1,Western Europe,Postdoc
+198,No,No,,,Partial Support,0,0,South America,(Research) Staff
+199,No,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+200,No,No,No,No,No Support,0,0,North America,Postdoc
+201,No,No,No,No,No Support,0,0,Asia,Teaching Faculty
+202,No,No,No,Yes,Full Support,1,1,Central America,Graduate/Postgraduate student
+203,No,Yes,Yes,No,Partial Support,1,1,Western Europe,Graduate/Postgraduate student
+204,No,No,No,No,Partial Support,0,0,Africa,Graduate/Postgraduate student
+205,No,No,,,Full Support,0,0,Middle East,Graduate/Postgraduate student
+206,Yes,No,Yes,Yes,Full Support,0,0,North America,Undergraduate/College student
+207,No,No,No,No,No Support,0,1,Western Europe,(Research) Staff
+208,No,No,No,No,Partial Support,0,0,North America,Graduate/Postgraduate student
+209,No,No,,,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+210,No,No,No,Yes,Partial Support,0,0,Central America,Graduate/Postgraduate student
+211,No,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+212,No,No,No,Yes,Full Support,1,1,Asia,(Research) Staff
+213,Yes,No,No,No,Partial Support,0,0,North America,Graduate/Postgraduate student
+214,No,No,No,No,Partial Support,0,0,Asia,Graduate/Postgraduate student
+215,No,No,,,Full Support,0,0,Africa,Graduate/Postgraduate student
+216,No,No,No,No,No Support,0,0,Western Europe,(Research) Staff
+217,No,No,Yes,No,Full Support,0,0,North America,Graduate/Postgraduate student
+218,Yes,No,No,Yes,Partial Support,0,0,North America,Postdoc
+219,No,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+220,No,No,Yes,Yes,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+221,No,No,No,No,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+222,No,No,Yes,No,Partial Support,0,0,North America,Postdoc
+223,No,No,Yes,Yes,Full Support,0,0,Eastern Europe,Graduate/Postgraduate student
+224,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+225,No,No,No,,Full Support,0,0,Asia,Graduate/Postgraduate student
+226,Yes,No,No,No,Partial Support,0,1,Eastern Europe,(Research) Staff
+227,No,No,,No,No Support,0,0,North America,(Research) Staff
+228,Yes,No,,,Partial Support,0,0,Asia,Graduate/Postgraduate student
+229,No,No,,,Full Support,0,0,Asia,PhD student
+230,Yes,Yes,No,No,No Support,0,0,Western Europe,Postdoc
+231,Yes,Yes,,,No Support,0,0,North America,Software Engineer
+232,No,No,No,No,Full Support,0,0,North America,Graduate/Postgraduate student
+233,No,No,,,No Support,0,0,Western Europe,Postdoc
+234,Yes,No,Yes,No,No Support,0,1,North America,Postdoc
+235,No,No,No,Yes,Full Support,0,0,South America,(Research) Staff
+236,Yes,Yes,No,No,No Support,0,1,Western Europe,(Research) Staff
+237,No,No,,,No Support,0,0,Western Europe,Graduate/Postgraduate student
+238,No,No,No,No,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+239,No,No,,,No Support,0,0,Western Europe,Graduate/Postgraduate student
+240,No,No,,,Full Support,0,0,Eastern Europe,Postdoc
+241,No,No,No,No,Partial Support,0,0,North America,Graduate/Postgraduate student
+242,No,No,No,Yes,Full Support,0,0,Africa,Graduate/Postgraduate student
+243,No,No,No,No,Partial Support,0,0,South America,Postdoc
+244,Yes,No,Yes,No,No Support,0,0,North America,Postdoc
+245,No,No,No,No,No Support,0,0,Eastern Europe,Postdoc
+246,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+247,No,No,No,No,Full Support,0,0,Asia,Undergraduate/College student
+248,No,No,No,No,No Support,0,1,Eastern Europe,Postdoc
+249,No,No,No,No,Partial Support,0,0,Western Europe,Postdoc
+250,No,No,,,Partial Support,0,0,Eastern Europe,Postdoc
+251,No,No,Yes,Yes,Full Support,0,0,Asia,Undergraduate/College student
+252,No,No,No,No,Partial Support,0,0,Western Europe,Postdoc
+253,Yes,Yes,No,Yes,Full Support,0,0,Asia,Undergraduate/College student
+254,No,No,Yes,,Partial Support,0,0,Asia,Undergraduate/College student
+255,No,No,No,No,Full Support,1,1,South America,Teaching Faculty
+256,No,No,,,No Support,0,1,Western Europe,Graduate/Postgraduate student
+257,No,No,No,Yes,Full Support,0,0,North America,Graduate/Postgraduate student
+258,No,No,Yes,Yes,Partial Support,0,0,North America,Graduate/Postgraduate student
+259,No,No,,,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+260,No,No,No,Yes,Full Support,0,0,Asia,Graduate/Postgraduate student
+261,No,No,,,Full Support,0,0,Africa,Graduate/Postgraduate student
+262,Yes,Yes,No,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+263,No,No,No,No,Partial Support,0,0,Eastern Europe,Graduate/Postgraduate student
+264,No,No,No,No,Partial Support,0,0,North America,Graduate/Postgraduate student
+265,No,No,,,Full Support,0,0,Eastern Europe,Graduate/Postgraduate student
+266,No,No,Yes,,No Support,0,0,Africa,Graduate/Postgraduate student
+267,Yes,Yes,No,No,Partial Support,0,1,North America,Postdoc
+268,No,No,No,No,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+269,No,Yes,No,No,Full Support,0,0,Asia,Graduate/Postgraduate student
+270,No,No,No,,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+271,No,No,,,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+272,Yes,Yes,No,No,No Support,0,1,North America,Postdoc
+273,Yes,Yes,No,No,No Support,0,0,North America,(Research) Staff
+274,No,No,No,No,No Support,0,0,Western Europe,Postdoc
+275,No,No,No,No,Full Support,0,0,Western Europe,Graduate/Postgraduate student
+276,No,No,Yes,,Full Support,0,0,Asia,Student researcher completed Masters last summer
+277,Yes,No,No,,Full Support,0,0,Africa,Graduate/Postgraduate student
+278,No,No,No,No,No Support,0,0,Western Europe,Graduate/Postgraduate student
+279,No,No,No,Yes,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+280,No,No,No,Yes,Full Support,1,1,Western Europe,Graduate/Postgraduate student
+281,Yes,Yes,No,No,No Support,0,1,Western Europe,Non-Academic
+282,No,No,Yes,No,Full Support,0,0,Asia,(Research) Staff
+283,No,No,Yes,Yes,Full Support,0,0,North America,Graduate/Postgraduate student
+284,No,No,No,No,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
+285,No,No,No,No,Partial Support,0,0,Western Europe,Graduate/Postgraduate student
